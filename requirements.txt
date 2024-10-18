@@ -1,0 +1,6 @@
+Please install the following libraries ... you can simply use !pip install {library} in the terminal
+
+pyautogui
+mediapipe
+opencv
+speech_recognition
